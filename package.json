@@ -1,0 +1,11 @@
+{
+  "name": "steamtracks",
+  "version": "0.0.1",
+  "main": "./lib/steamtracks.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "superagent": "^0.17.0"
+  }
+}
